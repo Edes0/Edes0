@@ -2,6 +2,8 @@
 
 Backend and platform engineer — .NET, distributed simulation, containers.
 
+📫 **[sjogrenandreas@live.se](mailto:sjogrenandreas@live.se)**
+
 **[polyglot-tick-engine](https://github.com/Edes0/polyglot-tick-engine)** — engineering write-up of
 Screeps2, a game server I have been building solo for the past year.
 
